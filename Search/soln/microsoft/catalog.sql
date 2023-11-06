@@ -1,0 +1,1 @@
+CREATE FULLTEXT CATALOG BugsCatalog;

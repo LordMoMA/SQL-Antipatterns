@@ -1,0 +1,1 @@
+SELECT * FROM Bugs WHERE MATCH('crash');
